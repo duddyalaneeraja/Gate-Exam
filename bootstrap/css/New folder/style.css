@@ -1,0 +1,46 @@
+
+  #topHeader{
+    border-bottom: 1px solid black;
+  }
+  #topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+  }
+ .container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+.full.footer{
+    background-color: navy;
+    position :absolute;
+    bottom:0;
+}
+/* START : Footer */
+.full-footer{
+    background-color: white;
+    
+  }
+  .top-footer p{
+    color: white;
+  }
+  .top-footer a{
+    color: white;
+    font-weight: 600;
+  }
+  .top-footer h3{
+    color: white;
+  }
+  .bottom-footer{
+    background-color:#031b2e;
+    color: white;
+  }
+  
+  /* END : Footer */
+  .top-hero-section{
+    background-color: white;
+    color: black;
+  }
+  
+  

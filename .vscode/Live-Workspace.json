@@ -1,0 +1,21 @@
+{
+    "profile": "default",
+
+    "protocol": "ftp",
+    "host":"127.0.0.1",
+    "port":5500,
+    "user": "Neeraja",
+    "password": "Neeraja2000",
+
+    "remotePath": "gate",
+    "uploadOnSave": false,
+    "saveOnCheckIn": false,
+    "clearCacheOnckeckIn": false,
+
+    "ignore": [
+        "*/.DS_Store",
+        "*/.vscode/*",
+        "*/.git/*",
+        "*/*.LCK"
+    ]
+}
